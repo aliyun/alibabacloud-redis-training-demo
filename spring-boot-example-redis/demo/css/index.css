@@ -1,0 +1,17 @@
+#content {
+  border: 1px solid #191919;
+  width: 300px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  color: #666666;
+}
+
+.demo-date {
+  margin-bottom: 10px;
+}
+
+.demo-item {
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
