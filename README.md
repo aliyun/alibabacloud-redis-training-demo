@@ -1,8 +1,9 @@
 #### 2021 阿里云开发者社区 [Redis训练营](https://developer.aliyun.com/learning/trainingcamp/redis/1) 演示资料
 
+视频地址：https://developer.aliyun.com/learning/course/777  
+学习流程：登录阿里云账号-加入学习-课时列表
 
-
-| 课程                         | 介绍                                                         | 演示资料、代码、视频                                         |
+| 课程                         | 介绍                                                         | 演示资料及代码                                               |
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 走进 Redis                   | Redis 的整体架构，主要数据结构，以及支撑其高性能、高可扩展的关键技术机制。 | 暂无                                                         |
 | Redis 开发实操之春运迁徙页面 | Redis 启动到连接，使用 Redis Hash，Sorted Set，Stream，TairGis 等结构实现一个春运迁徙页面。 | [ppt](https://github.com/aliyun/alibabacloud-redis-training-demo/blob/master/slides/Redis%E5%BC%80%E5%8F%91%E5%AE%9E%E6%93%8D%E4%B9%8B%E6%98%A5%E8%BF%90%E8%BF%81%E5%BE%99%E9%A1%B5%E9%9D%A2.pdf), [demo-code](https://github.com/aliyun/alibabacloud-redis-training-demo/tree/master/spring-boot-example-redis) |
