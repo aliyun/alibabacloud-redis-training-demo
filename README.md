@@ -13,14 +13,4 @@
 | Redis 的高并发实战：抢购系统 | IO 模型和问题，资源竞争与分布式锁，如何利用 Redis 高并发原理做抢购系统。 | [ppt](https://github.com/aliyun/alibabacloud-redis-training-demo/blob/master/slides/Redis%20%E7%9A%84%E9%AB%98%E5%B9%B6%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%9A%E6%8A%A2%E8%B4%AD%E7%B3%BB%E7%BB%9F%20.pdf) |
 | Redis 的生态                 | DMS/DTS/Redis-shake工具使用，Redis和数据库/大数据的联动应用场景等。 | [ppt](https://github.com/aliyun/alibabacloud-redis-training-demo/blob/master/slides/Redis%E7%94%9F%E6%80%81.pdf) |
 
-
-
-#### Tair Module 开源地址
-
-TairHash：https://github.com/alibaba/TairHash
-
-TairString：https://github.com/alibaba/TairString
-
-友情提示：
- - 独立客户可以随意下载使用Tair Module及商业化。
- - 由于知识专利所限，其他云厂商请切勿使用此模块。
+更多资料，Redis 最佳实践获取，请访问[阿里云数据库Redis文档](https://help.aliyun.com/product/26340.html)。
